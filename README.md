@@ -1,35 +1,21 @@
 # AI Portfolio 2026
 
-Hi, I'm Jaedyn Smiley.
+Hi, I'm Jaedyn Smiley, a rising senior at Western School of Technology in the AI Pathway.
 
-I am a rising senior in the Artificial Intelligence Pathway at Western School of Technology in Maryland.
+This repository contains real machine learning projects I will build during Summer 2026, focused on applying AI to sports performance, prediction systems, and real-world data problems.
 
-This portfolio documents the AI and machine learning projects I build throughout Summer 2026 as I prepare for college and a career in Computer Engineering.
+## Focus Areas
+- Machine Learning models (prediction + classification)
+- Real dataset analysis
+- AI applications in sports performance
+- End-to-end project development (data → model → deployment)
 
-## Projects
+## Current Projects
 
 ### Sprint Performance Predictor
-Status: Planning
+Building an ML model that predicts 100m sprint performance using athlete physical metrics and training data.
 
-Description:
-An AI model that predicts sprint performance using athlete measurements and training data.
+Status: In progress (Week 1)
 
-### Project 2
-Coming Soon
-
-### Project 3
-Coming Soon
-
-## Technologies
-
-- Python
-- Java
-- Machine Learning
-- GitHub
-- Google Colab
-
-## Goals
-
-- Build 3 complete AI projects
-- Improve SAT score
-- Prepare for Computer Engineering programs
+## Tech Stack
+Python • Pandas • Scikit-learn • Google Colab • GitHub
